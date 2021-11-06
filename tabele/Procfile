@@ -1,1 +1,1 @@
-web:gunicorn forumofnani.wsgi
+web:gunicorn tabele.wsgi
