@@ -1,0 +1,5 @@
+Pillow
+django
+django-crispy-forms
+gunicorn
+django-heroku
