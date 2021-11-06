@@ -1,0 +1,1 @@
+web: gunicornradiant-plateau-69043.wsgi --log-file -
