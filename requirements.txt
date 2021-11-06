@@ -1,5 +1,4 @@
 Pillow
 django
 django-crispy-forms
-whitenoise
 gunicorn
