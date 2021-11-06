@@ -1,1 +1,0 @@
-worker: python ./app/manage.py runserver
