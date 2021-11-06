@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 Database models
 """
@@ -45,7 +44,6 @@ class Comment(models.Model):
 
     def __str__(self):
         return self.body
-=======
 """
 Database models
 """
@@ -92,4 +90,3 @@ class Comment(models.Model):
 
     def __str__(self):
         return self.body
->>>>>>> 0f2e3bf08cb23908bad5d4911f58b073ee1a305b
