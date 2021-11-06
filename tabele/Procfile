@@ -1,1 +1,1 @@
-web:gunicorn tabele.wsgi
+web:gunicorn tabele.wsgi:application --log-file -
