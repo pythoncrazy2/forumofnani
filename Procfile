@@ -1,1 +1,1 @@
-web: gunicorn forumofnani.wsgi --log-file -
+web:gunicorn app.wsgi
