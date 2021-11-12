@@ -1,1 +1,0 @@
-web:gunicorn tabele.wsgi:application --log-file -
