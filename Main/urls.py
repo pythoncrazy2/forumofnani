@@ -20,6 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('Post.urls', namespace="post")),
     path('profile/', include('allauth.urls')),
-    path('ads/', include('advert.urls', namespace="advert")),
     path('comment/', include('Comment.urls', namespace="comment")),
 ]
