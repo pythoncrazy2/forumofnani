@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'r4w^5vi8tq^wmow%&y%$qat$iuk0l)km5z_(o_0apryre&zjuy'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','forumofnani.herokuapp.com/']
 
